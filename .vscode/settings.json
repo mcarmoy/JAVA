@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "EJERCICIOS_SUBIR_CADENAS",
+        "EJERCICIOS_JAVA",
+        "EJEMPLOSCLASE",
+        "EJEMPLOSARRAY-T2",
+        "EJERCICIOS_SUBIR_ARRAY"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}

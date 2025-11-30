@@ -1,0 +1,97 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OrdenInversoArray",
+            "request": "launch",
+            "mainClass": "OrdenInversoArray",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "OrdenInversoConArray",
+            "request": "launch",
+            "mainClass": "OrdenInversoConArray",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "EjemploOrdenInversoConArray",
+            "request": "launch",
+            "mainClass": "EjemploOrdenInversoConArray",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "Ej2DOS",
+            "request": "launch",
+            "mainClass": "Ej2DOS",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "Ej1",
+            "request": "launch",
+            "mainClass": "Ej1",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "ConFor",
+            "request": "launch",
+            "mainClass": "ConFor",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "FormateoDeSalida",
+            "request": "launch",
+            "mainClass": "FormateoDeSalida",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "EjemplosParse",
+            "request": "launch",
+            "mainClass": "EjemplosParse",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "EjemploFuncionesMat",
+            "request": "launch",
+            "mainClass": "EjemploFuncionesMat",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "Ejercicio5",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicio3",
+            "projectName": "JAVA_CLASE_dc8b6c65"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": [
+                "-Duser.language=es",
+                "-Duser.country=ES",
+                "-Dfile.encoding=UTF-8"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
