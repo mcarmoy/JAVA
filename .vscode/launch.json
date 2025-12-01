@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ej4",
+            "request": "launch",
+            "mainClass": "Ej4",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "PasoDePosiciónConArray",
+            "request": "launch",
+            "mainClass": "PasoDePosiciónConArray",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
             "name": "OrdenInversoArray",
             "request": "launch",
             "mainClass": "OrdenInversoArray",
