@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ej4",
+            "request": "launch",
+            "mainClass": "ej4",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "ej3",
+            "request": "launch",
+            "mainClass": "ej3",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "ej2",
+            "request": "launch",
+            "mainClass": "ej2",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "ej1",
+            "request": "launch",
+            "mainClass": "ej1",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "Ej12",
+            "request": "launch",
+            "mainClass": "Ej12",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "Ej11",
+            "request": "launch",
+            "mainClass": "Ej11",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "ValoresMaximosBidimensionales",
+            "request": "launch",
+            "mainClass": "ValoresMaximosBidimensionales",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "ArayBidimensional_Recorrer",
+            "request": "launch",
+            "mainClass": "ArayBidimensional_Recorrer",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
             "name": "Ej4",
             "request": "launch",
             "mainClass": "Ej4",

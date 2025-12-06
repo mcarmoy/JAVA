@@ -2,10 +2,11 @@
     "java.project.sourcePaths": [
         "src",
         "EJERCICIOS_SUBIR_CADENAS",
+        "EJERCICIOS_SUBIR_ARRAY",
         "EJERCICIOS_JAVA",
         "EJEMPLOSCLASE",
         "EJEMPLOSARRAY-T2",
-        "EJERCICIOS_SUBIR_ARRAY"
+        "VARIABLES_SUBIR"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
