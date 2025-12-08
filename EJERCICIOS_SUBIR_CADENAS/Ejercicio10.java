@@ -44,9 +44,9 @@ public class Ejercicio10 {
         System.out.println("Cadena Analizada (Limpia): " + original);
 
         if (esPalindromo) {
-            System.out.println("✅ La cadena SÍ es un palíndromo.");
+            System.out.println("La cadena SÍ es un palíndromo.");
         } else {
-            System.out.println("❌ La cadena NO es un palíndromo.");
+            System.out.println("La cadena NO es un palíndromo.");
         }
 
         scanner.close();
