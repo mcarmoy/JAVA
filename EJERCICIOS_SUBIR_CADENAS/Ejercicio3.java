@@ -23,7 +23,7 @@ public class Ejercicio3 {
 
         }
 
-        System.out.println("El carácter " + car + " HOse repite " + contador + " veces.");
+        System.out.println("El carácter " + car + " se repite " + contador + " veces.");
 
 
     }
