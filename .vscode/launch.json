@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ej6",
+            "request": "launch",
+            "mainClass": "Ej6",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "Ej5",
+            "request": "launch",
+            "mainClass": "Ej5",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4ARRAY",
+            "request": "launch",
+            "mainClass": "Ejercicio4ARRAY",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "Ej3",
+            "request": "launch",
+            "mainClass": "Ej3",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1ARRAY",
+            "request": "launch",
+            "mainClass": "Ejercicio1ARRAY",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "Ej1",
+            "request": "launch",
+            "mainClass": "Ej1",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
+            "name": "EJEMPLOARRAYBI",
+            "request": "launch",
+            "mainClass": "EJEMPLOARRAYBI",
+            "projectName": "JAVA_REPOSITORIO_89efdb30"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio10",
             "request": "launch",
             "mainClass": "Ejercicio10",
